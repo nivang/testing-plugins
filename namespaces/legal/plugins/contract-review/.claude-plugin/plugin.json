@@ -1,0 +1,10 @@
+{
+  "name": "contract-review",
+  "version": "0.1.0",
+  "description": "Hello world contract review plugin",
+  "author": {
+    "name": "Legal Team",
+    "email": "legal@example.com"
+  },
+  "skills": ["./skills/contract-review"]
+}

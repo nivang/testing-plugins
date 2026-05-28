@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "legal",
+  "description": "Plugin marketplace for the Legal namespace",
+  "owner": {
+    "name": "Legal Team",
+    "email": "legal@example.com"
+  },
+  "plugins": [
+    {
+      "name": "contract-review",
+      "description": "Hello world contract review plugin for testing",
+      "author": {
+        "name": "Legal Team"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "local",
+        "path": "./plugins/contract-review"
+      }
+    }
+  ]
+}
