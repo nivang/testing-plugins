@@ -1,8 +1,8 @@
 {
-  "name": "rubrik-engineering",
+  "name": "engineering",
   "owner": {
-    "name": "Rubrik Engineering",
-    "email": "eng-tools@rubrik.com"
+    "name": "Engineering",
+    "email": "eng-tools@example.com"
   },
   "metadata": {
     "pluginRoot": "./plugins"
@@ -11,7 +11,7 @@
     {
       "name": "code-review",
       "source": "./plugins/code-review",
-      "description": "Code review workflows for Rubrik engineers"
+      "description": "Code review workflows for engineers"
     },
     {
       "name": "data-analysis",
