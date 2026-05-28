@@ -1,10 +1,5 @@
 {
   "name": "data-analysis",
-  "version": "0.1.0",
-  "description": "Hello world data analysis plugin",
-  "author": {
-    "name": "Engineering Team",
-    "email": "engineering@example.com"
-  },
-  "skills": ["./skills/data-analysis"]
+  "description": "Data analysis workflows",
+  "version": "1.0.0"
 }
